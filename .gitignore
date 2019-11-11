@@ -1,0 +1,8 @@
+# Build files
+**/build
+
+# Data files
+**/data
+
+# Version file
+include/util/version.h
